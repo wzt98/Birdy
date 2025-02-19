@@ -1,2 +1,2 @@
 # Birdy
-A TikTok dataset of videos calling for justice for Birdy.
+A TikTok dataset of videos calling for justice for @birdy
